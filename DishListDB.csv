@@ -1,5 +1,7 @@
 DishID,Time,Ingredients,Name,Filename,
-A001,15,"salmon, rice, broccoli",Dead salmon with broccoli,A001.jpg,.jpg
-A002,25,"Chicken, pearl couscous, leek, carrot, zucchini",Chicken with pearl couscous,A002.jpg,
-A003,25,"Chicken, sweet potato, Tomato, kokos milk, ",Sweet potato chicken,A003.jpg,
-A004,45,"Cauliflower, Rice, onion, lime",Cauliflower in green curry,A004.jpg,
+A001,15,"Zucchini, Noodles, paprika, sugarsnaps, carrot, lime, ginger, cashew nuts, Tahin",Noodles with Tahin and Zucchini,A001.jpg,.jpg
+A002,15,"Noodles, Mushrooms, Egg, Lime, Cucumber, Tahin",Sweet Sesam Noodles with fried Egg,A002.jpg,
+A003,20,"Pasta, Penne, Salad, Radicchio, Iceberg salad, Tomato, white cheese, Avocado, chicken, chicken filet",Pasta Salad with Chicken and Avocado,A003.jpg,
+A004,20,"Shrimps, fusili, pasta, salad, cream, goat cheese, Zucchini, paprika",Shrimps with Fusili in creamy Curry Sauce,A004.jpg,
+A005,20,"Pasta, spaghetti, cherry tomatoes, shrimps, rucola, lemon, cream, kookhaver bio",Quick Spaghetti with Lemon-garlic shrimps,A005.jpg,
+A006,20,"Pasta, Penne, Cream Cheese, Cherry Tomoatoes, Spinach, Paprika, Olives",Creamy Pasta met Chorizo and Olives,A006.jpg,
